@@ -1,0 +1,32 @@
+h1 {
+	color: #396ae5;
+	text-align: center;
+}
+
+body {
+	background: #ce8ced;
+}
+
+div {
+	border: #396ae5 4px solid;
+	background: #81c2c7;
+}
+
+.metro {
+	list-style-type: none;
+	text-transform: uppercase;
+}
+
+img {
+	border-radius: 140px;
+}
+
+.симба {
+	margin-left: 40px;
+}
+
+p {
+	font-style: italic;
+}
+
+
